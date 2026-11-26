@@ -1,12 +1,15 @@
 # Giorgio Tuccinardi
 
-MSc student in Engineering in Computer Science and Artificial Intelligence, Sapienza University of Rome.
+MSc student in Engineering in Computer Science and Artificial Intelligence at Sapienza University of Rome.
 
-## Progetti
-**[DECIMA](https://github.com/GiorgioTuk/ixh26_sapienza)** – Protocollo per certificare l'origine autentica delle foto tramite XRP Ledger, sviluppato in team all'IXH26 Italian XRPL Hackathon (Bari, 20–21 novembre 2026), Track 1 – Advanced Cryptography for Blockchain. Combina le firme hardware di sensore e Secure Enclave, un commitment anonimo on-chain e una prova zero-knowledge (simulata nel prototipo) che permette di verificare la foto senza rivelare il dispositivo. Python, XRPL Testnet.
+## Projects
 
-**[FoodAdvisor](https://github.com/GiorgioTuk/Food-Advisor)** – Piattaforma web per cercare ristoranti, prenotare e lasciare recensioni, sviluppata in Ruby on Rails da un team di 4 studenti per il Laboratorio di Architettura Software e Sicurezza Informatica (Sapienza, 2023/2024), poi argomento della mia tesi triennale. Con il team ho lavorato su mockup e progettazione del database; ho implementato i test con Capybara.
+**[DECIMA](https://github.com/GiorgioTuk/ixh26_sapienza)** – A protocol that certifies the authentic origin of photos using the XRP Ledger, built as a team at the IXH26 Italian XRPL Hackathon (Bari, November 20–21, 2026), Track 1 – Advanced Cryptography for Blockchain. It combines hardware signatures from the camera sensor and the Secure Enclave, an anonymous on-chain commitment and a zero-knowledge proof (simulated in the prototype) that lets anyone verify a photo without revealing the device. Python, XRPL Testnet.
 
-**[Accorpa presenze](https://github.com/GiorgioTuk/accorpa-presenze)** – Componente Excel (VBA) che accorpa i fogli presenze per dipendente, con controlli sui totali e aggiornamento automatico.
+**[FoodAdvisor](https://github.com/GiorgioTuk/Food-Advisor)** – A web platform to search for restaurants, book tables and write reviews, built in Ruby on Rails by a team of 4 students for the Software Architecture and Cybersecurity Lab (Sapienza, 2023/2024), and later the topic of my bachelor's thesis. With the team I worked on the mockups and the database design, and I implemented the tests with Capybara.
 
-**[PDF-Divider](https://github.com/GiorgioTuk/PDF-Divider)** – Strumento Python per dividere file PDF in più parti.
+**[Obesity ML from scratch](https://github.com/GiorgioTuk/obesity-ml-from-scratch)** – Six machine-learning algorithms (linear regression in closed form and with gradient descent, a neural network with backpropagation, logistic regression, KNN, a decision tree) implemented from scratch with NumPy and checked against scikit-learn, on a UCI dataset about obesity levels. During the analysis I found and measured a target-leakage problem in the data that pushed accuracy up to 100%. It started as a homework for the Foundations of Artificial Intelligence course (Sapienza, 2023/2024) and was revised and extended in 2026. Python, NumPy, Jupyter.
+
+**[Accorpa presenze](https://github.com/GiorgioTuk/accorpa-presenze)** – An Excel (VBA) component that merges attendance sheets by employee, with checks on the totals and automatic updates.
+
+**[PDF-Divider](https://github.com/GiorgioTuk/PDF-Divider)** – A Python tool to split PDF files into several parts.
